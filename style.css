@@ -1,0 +1,12 @@
+p {
+  font-family: Arial, sans-serif;
+  font-size: 43px;
+  line-height: 1.6;
+  text-align: justify;  
+}
+
+.special {
+  font-family: "Poppins", sans-serif;
+  color: red;
+  font-weight: bold;
+}
