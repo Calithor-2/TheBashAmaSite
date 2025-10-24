@@ -10,3 +10,9 @@ p {
   color: red;
   font-weight: bold;
 }
+
+h1 {
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    text-align: center;
+}
