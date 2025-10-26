@@ -1,18 +1,41 @@
 p {
   font-family: Arial, sans-serif;
-  font-size: 43px;
+  font-size: 30px;
   line-height: 1.6;
-  text-align: justify;  
+  text-align: left;  
+  text-shadow: 2px 4px 9px rgba(0, 0, 0, 0.5);
 }
 
 .special {
-  font-family: "Poppins", sans-serif;
-  color: red;
+  font-family: Pixelify Sans;
+  color: #3a1841;
   font-weight: bold;
+  text-align: center;
 }
 
 h1 {
-    font-family: Arial, sans-serif;
-    color: darkblue;
-    text-align: center;
+  font-family: Pixelify Sans;
+  color: #782c40;
+  text-align: center;
+  font-size: 65px;
+  text-shadow: 2px 4px 9px rgba(0, 0, 0, 0.5);
+}
+.imagemiddle {
+  display:block;
+  margin: auto;
+  width: 50%;
+}
+
+.version {
+  font-family: Pixelify Sans;
+  color: #f4ffb6;
+  margin-bottom: auto;
+  text-align: right;
+  font-size 18px;
+}
+
+.imagebottom {
+  display:block;
+  margin-left: auto;
+  width: 50%;
 }
