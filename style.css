@@ -20,7 +20,7 @@ h1 {
   font-size: 65px;
   text-shadow: 2px 4px 9px rgba(0, 0, 0, 0.5);
 }
-.imagemiddle {
+.titleimage {
   display:block;
   margin: auto;
   width: 50%;
@@ -34,8 +34,35 @@ h1 {
   font-size 18px;
 }
 
-.imagebottom {
+.info {
   display:block;
   margin-left: auto;
   width: 50%;
 }
+
+.socials {
+  display:block;
+  margin: auto;
+  width: 25%;
+}
+
+.socialicon {
+  margin: 7%;
+  width: 100%;
+}
+
+.bashamaicon {
+  margin:2.5%;
+  border-radius:25px;
+}
+
+.bashamaad {
+  text-align: center;
+}
+
+
+
+
+
+
+
