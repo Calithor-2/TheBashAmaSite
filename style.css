@@ -66,8 +66,12 @@ h1 {
   border-radius:25px;
 }
 
-
-
+.funn {
+  opacity: 0.27;
+  display:block;
+  margin: auto;
+  width: 50%;
+}
 
 
 
